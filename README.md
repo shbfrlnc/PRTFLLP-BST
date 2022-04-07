@@ -4,6 +4,10 @@ PRTFLLP-BST adalah portfolio landing page template yang dibuat dengan menggunaka
 
 Untuk mendownload source code-nya, silakan kunjungi bagian Releases.
 
+## Screencast
+
+- https://www.youtube.com/playlist?list=PLOg7o5N1MDWS8cJ4HJVeTMy6qmoJN9EtA
+
 ## Info Tambahan
 
 Traktir Saya:
