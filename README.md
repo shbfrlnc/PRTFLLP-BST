@@ -8,6 +8,10 @@ Untuk mendownload source code-nya, silakan kunjungi bagian Releases.
 
 - https://www.youtube.com/playlist?list=PLOg7o5N1MDWS8cJ4HJVeTMy6qmoJN9EtA
 
+## Screenshot
+
+![ScreenShot](assets/PRTFLLP-BST.png?raw=true)
+
 ## Info Tambahan
 
 Traktir Saya:
