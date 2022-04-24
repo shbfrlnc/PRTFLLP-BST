@@ -1,8 +1,12 @@
 # PRTFLLP-BST
 
-PRTFLLP-BST adalah portfolio landing page template yang dibuat dengan menggunakan Bootstrap v4.
+## Download
 
-Untuk mendownload source code-nya, silakan kunjungi bagian Releases.
+Download the project on release page.
+
+## Intro
+
+PRTFLLP-BST is a portfolio landing page template with Bootstrap v4.
 
 ## Screencast
 
