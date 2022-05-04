@@ -2,17 +2,17 @@
 
 ## Download
 
-Download the project on release page.
+Untuk mendownloadnya, kunjungi halaman Releases.
 
-## More Info
+## Info Lebih Lanjut
 
-Support me, my youtube channel, etc:
+TRAKTIR / WEBSITE / YOUTUBE / TWITTER:
 
 - https://shbfrlnc.github.io
 
 ## Intro
 
-PRTFLLP-BST is a portfolio landing page template with Bootstrap v4.
+PRTFLLP-BST adalah portfolio landing page template dengan Bootstrap v4.
 
 ## Screencast
 
